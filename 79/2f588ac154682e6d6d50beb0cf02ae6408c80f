@@ -1,0 +1,25 @@
+plugins/my-first-plugin/skills/hello/SKILL.md
+  dd6675d4ba39ef03 1-21
+plugins/my-first-plugin/.claude-plugin/plugin.json
+  dd6675d4ba39ef03 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "792f588ac154682e6d6d50beb0cf02ae6408c80f",
+  "prompts": {
+    "dd6675d4ba39ef03": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23c623bb-89ad-494c-936a-d1a5b7c84418",
+        "model": "deepseek-v4-flash-ga-260731"
+      },
+      "human_author": "yangjingmin",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 0,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
