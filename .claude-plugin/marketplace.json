@@ -9,7 +9,7 @@
       "name": "my-first-plugin",
       "source": "./plugins/my-first-plugin",
       "description": "我的第一个测试插件",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
