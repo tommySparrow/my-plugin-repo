@@ -1,0 +1,15 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "jimmy杨",
+    "email": "jm91_yang@163.com"
+  },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "我的第一个测试插件",
+      "version": "1.0.0"
+    }
+  ]
+}
