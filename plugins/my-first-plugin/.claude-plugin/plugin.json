@@ -1,0 +1,12 @@
+{
+  "name": "my-first-plugin",
+  "displayName": "我的第一个测试插件",
+  "description": "我的第一个测试插件：用于验证插件市场（marketplace）加载与 skill 分发。",
+  "version": "1.0.0",
+  "author": {
+    "name": "jimmy杨",
+    "email": "jm91_yang@163.com"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/tommySparrow/my-plugin-repo"
+}
