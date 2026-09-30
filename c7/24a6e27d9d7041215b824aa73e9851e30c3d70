@@ -1,0 +1,14 @@
+.claude-plugin/marketplace.json
+  h_a1fac83257263f 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "c724a6e27d9d7041215b824aa73e9851e30c3d70",
+  "prompts": {},
+  "humans": {
+    "h_a1fac83257263f": {
+      "author": "yangjingmin"
+    }
+  }
+}
